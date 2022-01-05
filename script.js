@@ -410,7 +410,7 @@ function finalizarCompra() {
     timer: 2000
   })
   setTimeout(function () {
-    window.location.href = "https://cuestam.github.io/pago.html";;
+    window.location.href = "https://cuestam.github.io/pago.html";
   }, 1700);
  }
    
